@@ -4,9 +4,10 @@ using ExercicioWorker_ENUMS.Entities.Enums;
 
 namespace ExercicioWorker_ENUMS {
     class Worker {
-        public string Name { get; set; }
+        public string Name { get; private set; }
         public WorkLevel Level { get; private set; }
         public double BaseSalary { get; private set; }
+        public Department Department { get; set; }
 
         List<HourContract> contracts = new List<HourContract>();
 
