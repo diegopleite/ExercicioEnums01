@@ -5,5 +5,11 @@ using System.Text;
 namespace ExercicioWorker_ENUMS {
     class Department {
         public string Name { get; private set; }
+
+        public Department(string name) {
+            Name = name;
+        }
+
+
     }
 }
