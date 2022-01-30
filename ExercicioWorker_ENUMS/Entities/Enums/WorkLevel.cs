@@ -5,9 +5,9 @@ using System.Text;
 namespace ExercicioWorker_ENUMS.Entities.Enums {
     enum WorkLevel : int {
 
-        JUNIOR = 0,
-        MID_LEVEL = 1,
-        SENIOR = 2        
+        Junior = 0,
+        Mid_Level = 1,
+        Senior = 2        
 
     }
 }
