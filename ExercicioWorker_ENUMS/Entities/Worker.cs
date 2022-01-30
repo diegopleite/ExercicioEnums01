@@ -8,21 +8,21 @@ namespace ExercicioWorker_ENUMS {
         public WorkLevel Level { get; private set; }
         public double BaseSalary { get; private set; }
         public Department Department { get; set; }
+        public List<HourContract> Contracts { get; private set; } = new List<HourContract>();
 
-        List<HourContract> contracts = new List<HourContract>();
-
-        public Worker(string name, WorkLevel level, double baseSalary) {
+        public Worker(string name, WorkLevel level, double baseSalary, Department department) {
             Name = name;
             Level = level;
             BaseSalary = baseSalary;
+            Department = department;
         }
 
         public void addContract(HourContract contract) {
-            contracts.Add(contract);
+            Contracts.Add(contract);
         }
 
         public void removeContract(HourContract contract) {
-            contracts.Remove(contract);
+            Contracts.Remove(contract);
         }
 
         public double income(int year, int month) {
