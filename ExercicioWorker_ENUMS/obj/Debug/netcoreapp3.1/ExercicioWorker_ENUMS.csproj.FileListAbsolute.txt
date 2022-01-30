@@ -1,0 +1,14 @@
+F:\Curso C#\ExercicioWorker_ENUMS\ExercicioWorker_ENUMS\bin\Debug\netcoreapp3.1\ExercicioWorker_ENUMS.exe
+F:\Curso C#\ExercicioWorker_ENUMS\ExercicioWorker_ENUMS\bin\Debug\netcoreapp3.1\ExercicioWorker_ENUMS.deps.json
+F:\Curso C#\ExercicioWorker_ENUMS\ExercicioWorker_ENUMS\bin\Debug\netcoreapp3.1\ExercicioWorker_ENUMS.runtimeconfig.json
+F:\Curso C#\ExercicioWorker_ENUMS\ExercicioWorker_ENUMS\bin\Debug\netcoreapp3.1\ExercicioWorker_ENUMS.runtimeconfig.dev.json
+F:\Curso C#\ExercicioWorker_ENUMS\ExercicioWorker_ENUMS\bin\Debug\netcoreapp3.1\ExercicioWorker_ENUMS.dll
+F:\Curso C#\ExercicioWorker_ENUMS\ExercicioWorker_ENUMS\bin\Debug\netcoreapp3.1\ExercicioWorker_ENUMS.pdb
+F:\Curso C#\ExercicioWorker_ENUMS\ExercicioWorker_ENUMS\obj\Debug\netcoreapp3.1\ExercicioWorker_ENUMS.csproj.AssemblyReference.cache
+F:\Curso C#\ExercicioWorker_ENUMS\ExercicioWorker_ENUMS\obj\Debug\netcoreapp3.1\ExercicioWorker_ENUMS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso C#\ExercicioWorker_ENUMS\ExercicioWorker_ENUMS\obj\Debug\netcoreapp3.1\ExercicioWorker_ENUMS.AssemblyInfoInputs.cache
+F:\Curso C#\ExercicioWorker_ENUMS\ExercicioWorker_ENUMS\obj\Debug\netcoreapp3.1\ExercicioWorker_ENUMS.AssemblyInfo.cs
+F:\Curso C#\ExercicioWorker_ENUMS\ExercicioWorker_ENUMS\obj\Debug\netcoreapp3.1\ExercicioWorker_ENUMS.csproj.CoreCompileInputs.cache
+F:\Curso C#\ExercicioWorker_ENUMS\ExercicioWorker_ENUMS\obj\Debug\netcoreapp3.1\ExercicioWorker_ENUMS.dll
+F:\Curso C#\ExercicioWorker_ENUMS\ExercicioWorker_ENUMS\obj\Debug\netcoreapp3.1\ExercicioWorker_ENUMS.pdb
+F:\Curso C#\ExercicioWorker_ENUMS\ExercicioWorker_ENUMS\obj\Debug\netcoreapp3.1\ExercicioWorker_ENUMS.genruntimeconfig.cache
