@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ExercicioWorker_ENUMS.Entities {
+namespace ExercicioWorker_ENUMS.Entities.Enums {
     enum WorkLevel : int {
 
         JUNIOR = 0,

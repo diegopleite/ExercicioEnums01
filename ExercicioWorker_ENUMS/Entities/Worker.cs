@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 using ExercicioWorker_ENUMS.Entities;
+using ExercicioWorker_ENUMS.Entities.Enums;
 
 namespace ExercicioWorker_ENUMS {
     class Worker {
